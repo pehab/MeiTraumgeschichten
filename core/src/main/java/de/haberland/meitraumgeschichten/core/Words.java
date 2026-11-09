@@ -8,7 +8,7 @@ import java.util.Locale;
 public final class Words {
     private Words() { }
     public static List<String> tokens(String text) {
-        if (text == null || text.isBlank()) return List.of();
+        if (text == null || text.trim().isEmpty()) return java.util.Collections.emptyList();
         String clean = Normalizer.normalize(text.toLowerCase(Locale.GERMAN)
                 .replace("ß", "ss"), Normalizer.Form.NFD).replaceAll("\\p{M}+", "");
         List<String> result = new ArrayList<>();

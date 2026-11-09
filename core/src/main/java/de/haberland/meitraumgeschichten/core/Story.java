@@ -12,7 +12,7 @@ public final class Story {
                  String question, int minimumAge, List<Scene> scenes) {
         this.id = id; this.title = title; this.subtitle = subtitle; this.theme = theme;
         this.character = character; this.question = question; this.minimumAge = minimumAge;
-        this.scenes = List.copyOf(scenes);
+        this.scenes = java.util.Collections.unmodifiableList(new java.util.ArrayList<>(scenes));
     }
 
     public int wordCount() {

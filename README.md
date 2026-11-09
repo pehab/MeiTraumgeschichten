@@ -59,7 +59,7 @@ Für einen Build ohne erneuten Modelldownload kann `VOSK_MODEL_ARCHIVE` auf ein 
 
 GitHub Actions prüft die Leselogik mit JUnit und erzwingt **mindestens 85 % Zeilenabdeckung im `core`-Modul** über JaCoCo. Die Quote bezieht sich ausdrücklich auf den Android-unabhängigen Kern, nicht auf die gesamte App.
 
-Außerdem laufen die gemeinsamen 27 Updateprüfungen, Asset- und Manifestprüfungen, Android Lint für beide Vertriebswege sowie ein Emulatorlauf unter Android 15 / API 35. Der Emulator testet das Öffnen, manuelle Klangwiedergabe, Fortsetzen, Mikrofonablehnung und das tatsächliche Initialisieren des mitgelieferten deutschen Sprachmodells mit Start/Stopp des Mikrofons. Testberichte, Abdeckung und Emulatorergebnisse werden als Actions-Artefakte gesichert.
+Außerdem laufen die gemeinsamen 27 Updateprüfungen, Asset- und Manifestprüfungen, Android Lint für beide Vertriebswege sowie Emulatorläufe unter Android 8 / API 26 und Android 15 / API 35. Der Emulator testet das Öffnen, manuelle Klangwiedergabe, Fortsetzen, Mikrofonablehnung und das tatsächliche Initialisieren des mitgelieferten deutschen Sprachmodells mit Start/Stopp des Mikrofons. Testberichte, Abdeckung und Emulatorergebnisse werden als Actions-Artefakte gesichert.
 
 ## Updates und Veröffentlichungen
 

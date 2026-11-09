@@ -48,7 +48,7 @@ public final class ReadingSession {
 
     public void restore(String state) {
         next = 0; played.clear();
-        if (state == null || state.isBlank()) return;
+        if (state == null || state.trim().isEmpty()) return;
         try {
             String[] values = state.split(",", -1);
             int cursor = Integer.parseInt(values[0]);

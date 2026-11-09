@@ -42,7 +42,7 @@ public final class MainActivity extends Activity implements OfflineNarration.Lis
     private static final String REPOSITORY = "pehab/MeiTraumgeschichten";
     private static final int INK = 0xFFF4E7D2, MUTED = 0xFFB8B5CD, GOLD = 0xFFE8BF7A;
     private SharedPreferences prefs;
-    private List<Story> stories = List.of();
+    private List<Story> stories = java.util.Collections.emptyList();
     private Story story;
     private ReadingSession session;
     private StoryAudio audio;
