@@ -8,6 +8,6 @@ if ! grep -Eq 'OK \([0-9]+ tests?\)' device-results/instrumentation.txt; then
   adb logcat -d > device-results/logcat.txt
   exit 1
 fi
-adb shell am start -n de.haberland.meitraumgeschichten/.MainActivity
+adb shell am start -W -n de.haberland.meitraumgeschichten/.MainActivity
 adb shell screencap -p /sdcard/library.png
 adb pull /sdcard/library.png device-results/library.png
