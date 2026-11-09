@@ -39,7 +39,7 @@ public class BedtimeSmokeTest {
             onView(withText("Vorlesen starten")).check(matches(isDisplayed()));
             onView(withText("♪  Abendwind")).perform(scrollTo(), click());
             onView(withText("Nächster Klang: 2 von 12")).check(matches(isDisplayed()));
-            pressBack();
+            androidx.test.espresso.Espresso.pressBack();
             onView(withText("Weiterlesen: Milo und die Laterne für alle")).perform(scrollTo(), click());
             onView(withText("Nächster Klang: 2 von 12")).check(matches(isDisplayed()));
             onView(withText("Vorlesen starten")).perform(click());
