@@ -49,6 +49,12 @@ public class BedtimeSmokeTest {
     }
 
     @Test public void zPackagedGermanModelCanStartAndReleaseMicrophone() throws Exception {
+        try (ActivityScenario<MainActivity> ignored = ActivityScenario.launch(MainActivity.class)) {
+            verifyOfflineMicrophone();
+        }
+    }
+
+    private void verifyOfflineMicrophone() throws Exception {
         String pkg = context.getPackageName();
         InstrumentationRegistry.getInstrumentation().getUiAutomation().grantRuntimePermission(pkg, Manifest.permission.RECORD_AUDIO);
         CountDownLatch started = new CountDownLatch(1);
