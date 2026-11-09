@@ -1,0 +1,42 @@
+title=Milo und die Laterne für alle
+subtitle=Ein kleiner Drache muss nicht alles allein schaffen.
+theme=Hilfe annehmen
+character=dragon
+question=Wobei würdest du dir morgen gern helfen lassen?
+age=4
+---
+wind|der wind strich durch die weiden|Abendwind
+Am Rand des Wiesenwaldes wohnte ein kleiner Drache namens Milo. Er hatte grüne Schuppen, zwei ziemlich große Ohren und einen Schwanz, der immer zuerst verriet, wie es ihm ging. Wenn Milo froh war, malte die Schwanzspitze Kreise in die Luft. Wenn er sich ärgerte, klopfte sie auf den Boden. Heute malte sie Kreise. Heute sollte am alten Apfelbaum das Lichterfest stattfinden. Alle brachten etwas mit. Die Mäuse backten, der Dachs deckte den Tisch, und Milo hatte eine wunderbare Idee: Er wollte eine Laterne bauen, so groß, dass alle darunter Platz fanden. Draußen wurde es Abend, und der Wind strich durch die Weiden.
+---
+rustle|das papier raschelte unter seinen pfoten|Laternenpapier
+Milo holte drei Bögen goldenes Papier aus seiner Schublade. Er legte sie auf den Küchentisch und betrachtete sie von allen Seiten. Eine große Laterne brauchte einen großen Plan. Also zeichnete er einen Kreis, dann einen noch größeren und schließlich einen so großen, dass er über den Tischrand hinausging. Das Papier raschelte unter seinen Pfoten. „Das wird die schönste Laterne im ganzen Wald“, sagte Milo. Seine Nachbarin, die kleine Maus Tilda, schaute zum Fenster herein. „Soll ich die Sterne ausschneiden?“ Milo schüttelte den Kopf. „Danke. Das mache ich selbst.“ Tilda nickte. „Ich bin nebenan, falls du mich brauchst.“ Dann lief sie wieder zu ihrem Backblech.
+---
+creak|der alte holzstuhl knarrte leise|Werkstatt
+Zuerst klappte alles gut. Milo faltete das Papier, schnitt ein Fenster hinein und klebte einen schmalen Rand. Aber für die andere Seite brauchte er beide Pfoten. Und für den Klebstoff noch eine. Und damit der Rand nicht wieder aufging, eigentlich eine vierte. Drachen haben ziemlich viele gute Eigenschaften. Vier Vorderpfoten gehören nicht dazu. Milo klemmte einen Papierzipfel unters Kinn und stellte sich auf einen Stuhl. Der alte Holzstuhl knarrte leise. Da klebte plötzlich seine Nase am Laternenrand. Als er sie vorsichtig löste, riss ein winziger Spalt ins Papier. Milo sah ihn lange an. Sein Schwanz hörte auf, Kreise zu malen.
+---
+knock|klopfte es dreimal an die tür|Besuch
+Er konnte den Spalt mit einem Stern verdecken. Das war kein Problem. Nur hielt nun der andere Rand nicht mehr. Milo versuchte es mit Wäscheklammern. Eine sprang weg und landete im Mehltopf. Eine zweite hielt seinen Ärmel fest. In diesem Moment klopfte es dreimal an die Tür. Draußen stand Dachs Bente mit einer Rolle Schnur. „Ich habe etwas übrig. Kannst du das gebrauchen?“ Milo stellte sich schnell vor den Tisch. „Bei mir ist alles gut.“ Bente betrachtete die Klammer an seinem Ärmel, sagte aber nichts darüber. „Die Schnur bleibt hier auf der Bank“, antwortete sie. „Vielleicht braucht sie später jemand.“ Dann ging sie zum Apfelbaum zurück.
+---
+rain|kleine tropfen trommelten gegen das fenster|Ein kurzer Schauer
+Milo setzte sich auf den Boden. Er sah seine Laterne an. Sie war schief. Der Klebstoff war fast leer. Und am Himmel schob sich eine Wolke vor die Abendsonne. Kleine Tropfen trommelten gegen das Fenster. „Jetzt wird auch noch das Fest nass“, murmelte Milo. Er schob die Laterne von sich weg. Am liebsten hätte er gesagt, dass er gar keine Lust mehr hatte. Aber das stimmte nicht. Er hatte sehr viel Lust auf das Fest. Nur fühlte sich die große Laterne gerade viel zu groß an. Eine Weile blieb er einfach sitzen. Er musste noch keine Lösung wissen. Er konnte erst einmal traurig sein.
+---
+steps|tilda tappte über die holzdielen|Kleine Pfoten
+Durch die angelehnte Tür kam Tilda herein. Tilda tappte über die Holzdielen und setzte sich neben ihn, ohne die Laterne anzufassen. „Meine ersten Kekse waren schwarz“, sagte sie schließlich. Milo schaute auf. „Alle?“ „Alle außer einem. Der war noch flüssig.“ Milo musste ein bisschen lachen. Dann erzählte er von seiner klebenden Nase. Tilda lachte nicht über ihn. Sie legte nur ihren winzigen Kopf schief. „Willst du mir zeigen, wo es schwierig wird?“ Milo überlegte. Er wollte, dass die Laterne seine Idee blieb. Aber vielleicht musste er dafür nicht jeden Rand selbst festhalten. „Hier“, sagte er und zeigte auf das offene Papier.
+---
+rustle|falteten sie gemeinsam das goldene papier|Gemeinsam falten
+Tilda hielt eine Ecke fest. Milo hielt die andere. Dann falteten sie gemeinsam das goldene Papier. Plötzlich ließ sich der Rand ganz leicht zusammenkleben. „Du kannst gut sehen, ob es gerade ist“, sagte Milo. „Du kannst gut große Bögen halten“, antwortete Tilda. Für die obere Kante waren sie allerdings beide zu klein. Milo schaute zum Stuhl. Dann schaute er zur Tür. „Wir könnten Bente fragen.“ Das Wort fragen fühlte sich zuerst ungewohnt an, fast wie ein neuer Schuh. Aber als Milo es noch einmal sagte, passte es schon besser. Tilda nickte. Sie liefen hinaus, und auf der Bank lag die Rolle Schnur noch genau an ihrem Platz.
+---
+river|der bach plätscherte unter der brücke|Zum Apfelbaum
+Der Regen hatte aufgehört. Auf dem Weg zum Apfelbaum mussten sie über die kleine Brücke. Der Bach plätscherte unter der Brücke, als hätte er es überhaupt nicht eilig. Milo blieb kurz stehen. „Vielleicht denkt Bente, dass ich es nicht kann.“ Tilda ließ ihn ausreden. „Vielleicht denkt sie auch: Wie schön, dass ich mitmachen darf.“ Darüber hatte Milo noch nicht nachgedacht. Am Apfelbaum stellte Bente gerade Becher auf. Milo holte tief Luft. „Meine Laterne braucht jemanden, der oben die Schnur hält. Würdest du mir helfen?“ Bente legte einen Becher ab. „Gern. Sag mir, wie du sie dir vorgestellt hast.“ Und Milo erklärte seinen Plan.
+---
+chime|die laterne begann golden zu leuchten|Das erste Licht
+Zusammen trugen sie die Laterne zum Baum. Bente befestigte die Schnur an einem niedrigen Ast. Tilda schnitt Sterne aus den Papierresten. Milo verteilte sie über den kleinen Riss und daneben, damit es aussah wie ein ganzer Sternenhimmel. In die Mitte stellten sie ein kleines Batterielicht. Niemand musste dafür Feuer machen, nicht einmal ein Drache. Milo drückte den Schalter, und die Laterne begann golden zu leuchten. Ein Stern war schief. Eine Kante hatte eine Falte. Und auf einer Seite war ein Abdruck von Milos Nase zu sehen. Milo betrachtete alles sehr genau. Dann sagte er: „Ja. Genau so darf sie bleiben.“
+---
+bell|bente läutete die kleine abendglocke|Das Fest beginnt
+Unter der Laterne standen die Kekse. Die schönen und auch drei etwas dunkle, die Tilda doch noch mitgebracht hatte. Bente läutete die kleine Abendglocke. Nach und nach kamen die Nachbarn aus ihren Häusern. Ein Mäusekind zeigte auf den Nasenabdruck. „Ist das ein Drachenmond?“ Milo nickte feierlich. „Ein sehr seltener sogar.“ Alle rückten ein Stück zusammen, damit auch die letzten Gäste Platz fanden. „Was für eine schöne Laterne du gebaut hast“, sagte jemand. Milo schaute zu Tilda und Bente. „Wir haben sie gebaut“, antwortete er. Dabei wurde die Laterne in seinem Bauch kein bisschen kleiner. Sie wurde nur ein wenig wärmer.
+---
+owl|vom waldrand rief eine müde eule|Die Nacht kommt
+Später saßen sie unter dem Baum und suchten in den ausgeschnittenen Sternen nach Formen. Tilda entdeckte einen Fisch. Bente sah einen Löffel. Milo sah einen Drachen mit vier Vorderpfoten. Darüber mussten sie so lachen, dass die Papiersterne ein bisschen zitterten. Vom Waldrand rief eine müde Eule. Das war das Zeichen, die Becher einzusammeln und die letzten Krümel aufzupicken. Milo durfte das Licht ausschalten. Für einen Augenblick blieb seine Pfote auf dem Schalter liegen. Morgen würde die Laterne noch da sein. Und wenn sie einmal eine neue Schnur brauchte, wusste er schon, wen er fragen konnte. Dann wurde es dunkel unter dem Apfelbaum.
+---
+breathe|milo atmete langsam ein und aus|Ganz ruhig
+Zu Hause legte Milo die übrigen Papiersterne in seine Schublade. Einen legte er auf den Nachttisch. Er war krumm und hatte nur vier Spitzen, aber er gefiel ihm besonders gut. Milo schlüpfte unter die Decke. Sein Schwanz lag still neben seinen Füßen. Draußen schlief der Garten. Auf der Bank lag kein vergessener Plan mehr, und heute musste nichts mehr fertig werden. Milo atmete langsam ein und aus. Er dachte an Tildas kleine Pfoten und an Bentes sichere Knoten. Die Laterne war groß gewesen. Gemeinsam war sie leicht geworden. Milo schloss die Augen. Der Papierstern auf dem Nachttisch lag ganz still. Und die Nacht konnte beginnen.

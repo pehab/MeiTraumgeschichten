@@ -1,0 +1,12 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.p12
+*.hprof
+.idea/
+*.iml
+app/src/main/assets/model-de/
+app/src/main/assets/sounds/
+__pycache__/
