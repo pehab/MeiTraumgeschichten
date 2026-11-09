@@ -5,6 +5,7 @@ import de.haberland.meitraumgeschichten.core.Story;
 import de.haberland.meitraumgeschichten.core.StoryParser;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.ByteArrayOutputStream;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -20,7 +21,11 @@ final class StoryLibrary {
         for (String name : names) {
             if (!name.endsWith(".story")) continue;
             try (InputStream in = context.getAssets().open("stories/" + name)) {
-                result.add(StoryParser.parse(name, new String(in.readAllBytes(), StandardCharsets.UTF_8)));
+                ByteArrayOutputStream bytes = new ByteArrayOutputStream();
+                byte[] buffer = new byte[4096];
+                int length;
+                while ((length = in.read(buffer)) != -1) bytes.write(buffer, 0, length);
+                result.add(StoryParser.parse(name, new String(bytes.toByteArray(), StandardCharsets.UTF_8)));
             }
         }
         return result;
