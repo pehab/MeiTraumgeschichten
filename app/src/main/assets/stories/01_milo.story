@@ -20,7 +20,7 @@ Er konnte den Spalt mit einem Stern verdecken. Das war kein Problem. Nur hielt n
 rain|kleine tropfen trommelten gegen das fenster|Ein kurzer Schauer
 Milo setzte sich auf den Boden. Er sah seine Laterne an. Sie war schief. Der Klebstoff war fast leer. Und am Himmel schob sich eine Wolke vor die Abendsonne. Kleine Tropfen trommelten gegen das Fenster. „Jetzt wird auch noch das Fest nass“, murmelte Milo. Er schob die Laterne von sich weg. Am liebsten hätte er gesagt, dass er gar keine Lust mehr hatte. Aber das stimmte nicht. Er hatte sehr viel Lust auf das Fest. Nur fühlte sich die große Laterne gerade viel zu groß an. Eine Weile blieb er einfach sitzen. Er musste noch keine Lösung wissen. Er konnte erst einmal traurig sein.
 ---
-steps|tilda tappte über die holzdielen|Kleine Pfoten
+steps|tappte über die holzdielen|Kleine Pfoten
 Durch die angelehnte Tür kam Tilda herein. Tilda tappte über die Holzdielen und setzte sich neben ihn, ohne die Laterne anzufassen. „Meine ersten Kekse waren schwarz“, sagte sie schließlich. Milo schaute auf. „Alle?“ „Alle außer einem. Der war noch flüssig.“ Milo musste ein bisschen lachen. Dann erzählte er von seiner klebenden Nase. Tilda lachte nicht über ihn. Sie legte nur ihren winzigen Kopf schief. „Willst du mir zeigen, wo es schwierig wird?“ Milo überlegte. Er wollte, dass die Laterne seine Idee blieb. Aber vielleicht musste er dafür nicht jeden Rand selbst festhalten. „Hier“, sagte er und zeigte auf das offene Papier.
 ---
 rustle|falteten sie gemeinsam das goldene papier|Gemeinsam falten
@@ -38,5 +38,5 @@ Unter der Laterne standen die Kekse. Die schönen und auch drei etwas dunkle, di
 owl|vom waldrand rief eine müde eule|Die Nacht kommt
 Später saßen sie unter dem Baum und suchten in den ausgeschnittenen Sternen nach Formen. Tilda entdeckte einen Fisch. Bente sah einen Löffel. Milo sah einen Drachen mit vier Vorderpfoten. Darüber mussten sie so lachen, dass die Papiersterne ein bisschen zitterten. Vom Waldrand rief eine müde Eule. Das war das Zeichen, die Becher einzusammeln und die letzten Krümel aufzupicken. Milo durfte das Licht ausschalten. Für einen Augenblick blieb seine Pfote auf dem Schalter liegen. Morgen würde die Laterne noch da sein. Und wenn sie einmal eine neue Schnur brauchte, wusste er schon, wen er fragen konnte. Dann wurde es dunkel unter dem Apfelbaum.
 ---
-breathe|milo atmete langsam ein und aus|Ganz ruhig
+breathe|atmete langsam ein und aus|Ganz ruhig
 Zu Hause legte Milo die übrigen Papiersterne in seine Schublade. Einen legte er auf den Nachttisch. Er war krumm und hatte nur vier Spitzen, aber er gefiel ihm besonders gut. Milo schlüpfte unter die Decke. Sein Schwanz lag still neben seinen Füßen. Draußen schlief der Garten. Auf der Bank lag kein vergessener Plan mehr, und heute musste nichts mehr fertig werden. Milo atmete langsam ein und aus. Er dachte an Tildas kleine Pfoten und an Bentes sichere Knoten. Die Laterne war groß gewesen. Gemeinsam war sie leicht geworden. Milo schloss die Augen. Der Papierstern auf dem Nachttisch lag ganz still. Und die Nacht konnte beginnen.

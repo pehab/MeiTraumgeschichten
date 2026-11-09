@@ -5,7 +5,7 @@ character=hedgehog
 question=Woran merkst du, dass du eine Pause brauchst?
 age=5
 ---
-steps|fiete trippelte über den gartenweg|Ein großer Plan
+steps|trippelte über den gartenweg|Ein großer Plan
 Fiete trippelte über den Gartenweg und trug einen Eimer voller glatter Holzstücke. Er war ein kleiner Igel, der gern Dinge baute. Brücken für Käfer. Treppen für Schnecken. Und einmal ein Haus für einen Stein, weil der Stein so aussah, als würde er gern irgendwo wohnen. Heute hatte Fiete einen besonderen Plan. Er wollte einen Aussichtsturm bauen, von dem aus man die große Sonnenblume sehen konnte. Seine Freundin Juna, ein Kaninchen mit einem grauen Ohr, wartete schon im Garten. Sie hatte einen flachen Stein als Unterlage mitgebracht. „Zusammen schaffen wir einen richtig hohen“, sagte sie. Fiete stellte den Eimer ab. In seinem Kopf stand der Turm bereits fast bis zum Himmel.
 ---
 knock|die holzstücke klackten auf dem stein|Stein auf Stein
@@ -29,7 +29,7 @@ Im Nachbargarten plätscherte der kleine Brunnen. Fiete hörte ihm eine Weile zu
 steps|seine kleinen schritte knirschten im kies|Zurück zu Juna
 Seine kleinen Schritte knirschten im Kies. Juna schaute auf, sagte aber noch nichts. Fiete blieb einen Schritt von der Bank entfernt stehen. „Der Turm war mir sehr wichtig“, begann er. Juna nickte. Fiete drehte ein Blatt zwischen den Pfoten. Der nächste Satz war schwerer. „Ich hätte dich nicht anschreien sollen. Und wegschicken auch nicht. Es tut mir leid.“ Juna strich über ihr graues Ohr. „Ich wollte das Dach drauflegen. Ich habe nicht gewartet. Das tut mir auch leid.“ Dann saßen beide eine Weile still. Eine Entschuldigung machte den Turm nicht wieder ganz. Aber sie machte es möglich, nebeneinander auf der Bank zu sitzen, ohne dass sich alles so spitz anfühlte.
 ---
-knock|fiete klopfte vorsichtig auf das brett|Ein neuer Anfang
+knock|klopfte vorsichtig auf das brett|Ein neuer Anfang
 „Wollen wir noch einmal?“ fragte Juna schließlich. Fiete schaute zum Holz. Er war noch nicht sicher, ob er gleich wieder einen hohen Turm versuchen wollte. „Vielleicht erst etwas Kleines.“ Juna holte das Brett mit dem Astloch. Fiete klopfte vorsichtig auf das Brett. Es war heil geblieben. Sie legten es zwischen sich auf die Bank und zeichneten mit dem Finger einen Plan darauf. Unten sollte der Turm breit sein. Oben sollte eine Plattform kommen. Und bevor jemand etwas darauflegte, wollte er kurz fragen. „Auch du“, sagte Juna. Fiete nickte. „Auch ich.“ Dann holten sie den Eimer vom Weg zurück. Er hatte eine kleine Delle. Fiete strich darüber und stellte ihn wieder neben den Stein.
 ---
 bell|am haus die abendglocke klingelte|Zeit für heute
