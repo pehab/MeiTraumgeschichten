@@ -4,6 +4,7 @@ import android.Manifest;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Intent;
+import android.content.IntentSender;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
@@ -318,7 +319,7 @@ public final class MainActivity extends Activity implements OfflineNarration.Lis
                         .setNegativeButton("Später", null).setPositiveButton("Aktualisieren", (d, n) -> {
                             pauseReading();
                             try { playUpdates.startUpdateFlowForResult(info, this, AppUpdateOptions.newBuilder(AppUpdateType.FLEXIBLE).build(), 20); }
-                            catch (Intent.SendIntentException error) { GitHubUpdates.openPlay(this); }
+                            catch (IntentSender.SendIntentException error) { GitHubUpdates.openPlay(this); }
                         }).show();
             } else if (manual) GitHubUpdates.openPlay(this);
         }).addOnFailureListener(error -> { if (manual && foreground) GitHubUpdates.openPlay(this); });

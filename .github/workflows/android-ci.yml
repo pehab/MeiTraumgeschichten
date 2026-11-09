@@ -25,7 +25,9 @@ jobs:
         with:
           distribution: temurin
           java-version: '17'
-      - uses: android-actions/setup-android@v3
+      - uses: android-actions/setup-android@v4
+        with:
+          packages: platform-tools
       - uses: gradle/actions/setup-gradle@v4
       - name: Verify update routing and download validation
         run: bash scripts/test-update-contract.sh
@@ -110,8 +112,10 @@ jobs:
         with:
           distribution: temurin
           java-version: '17'
-      - uses: android-actions/setup-android@v3
+      - uses: android-actions/setup-android@v4
         if: steps.signing.outputs.ready == 'true'
+        with:
+          packages: platform-tools
       - uses: gradle/actions/setup-gradle@v4
         if: steps.signing.outputs.ready == 'true'
       - name: Build persistently signed release APK
