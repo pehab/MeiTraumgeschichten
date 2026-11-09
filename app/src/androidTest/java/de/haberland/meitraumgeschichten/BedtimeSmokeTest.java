@@ -3,6 +3,8 @@ package de.haberland.meitraumgeschichten;
 import android.Manifest;
 import android.content.Context;
 import android.content.pm.PackageManager;
+import android.os.ParcelFileDescriptor;
+import java.io.FileInputStream;
 import androidx.test.core.app.ActivityScenario;
 import androidx.test.platform.app.InstrumentationRegistry;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
@@ -56,7 +58,12 @@ public class BedtimeSmokeTest {
 
     private void verifyOfflineMicrophone() throws Exception {
         String pkg = context.getPackageName();
-        InstrumentationRegistry.getInstrumentation().getUiAutomation().grantRuntimePermission(pkg, Manifest.permission.RECORD_AUDIO);
+        try (ParcelFileDescriptor command = InstrumentationRegistry.getInstrumentation().getUiAutomation()
+                .executeShellCommand("pm grant " + pkg + " android.permission.RECORD_AUDIO");
+             FileInputStream output = new FileInputStream(command.getFileDescriptor())) {
+            byte[] buffer = new byte[256];
+            while (output.read(buffer) != -1) { /* Wait until the permission command completes. */ }
+        }
         CountDownLatch started = new CountDownLatch(1);
         AtomicReference<OfflineNarration> reference = new AtomicReference<>();
         AtomicReference<String> failure = new AtomicReference<>();
